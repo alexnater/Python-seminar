@@ -1,0 +1,5 @@
+abc def
+8
+TTGC
+atgc
+>gi1234|some sequence data
